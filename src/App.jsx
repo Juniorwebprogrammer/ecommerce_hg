@@ -2,7 +2,7 @@ import Topbar from './components/topbar/topbar';
 import Intro from './components/intro/intro';
 import Product from './components/product/product';
 import Contact from './components/contact/contact';
-//import ('./App.scss');
+import ('./App.scss');
 
 
 function App() {
